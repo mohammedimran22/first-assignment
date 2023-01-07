@@ -1,0 +1,230 @@
+/*title header */
+.title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    right: 845px;
+    top: 216px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    }
+    .title-des{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    right: 850px;
+    top: 468px;
+    text-align: right;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px
+}
+/*header cover image */
+.header-cover{
+    background-image: url(images/banner/banner2.png);
+    background-size:contain;
+    position: absolute;
+    width: 1600px;
+    height: 800px;
+    top: 0px;
+bottom: 0px;    
+}
+.btn-primary{
+position: absolute;
+width: 160px;
+right: 850px;
+top: 578px;
+font-weight: 700;
+font-size: 20px;
+border: 0;
+padding: 18px ;
+height: 64px;
+border-radius: 5px;
+background: #fd0a0a;
+}
+.body-title{
+position: absolute;
+width: 288px;
+height: 94px;
+right: 1000px;
+left: 950px;
+top: 1156px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+}
+.body-des{
+    position: absolute;
+width: 316px;
+height: 99px;
+left: 950px;
+top: 1279px;
+right: 500px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+}
+.body-left-image{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 239px;
+top: 917px;
+}
+.body-text-poin{
+    position: absolute;
+    width: 349px;
+    height: 159px;
+    left: 895px;
+    top: 1397px;
+}
+.second-body-title{
+position: absolute;
+width: 179px;
+height: 47px;
+left: 780px;
+top: 1640.3px;
+
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+}
+.second-body-part{
+    position: absolute;
+    width: 159px;
+    height: 47px;
+    left: 511px;
+    top: 1792.3px;
+    gap: 100px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 30px;
+    padding: 0px;
+    }
+.skills-name{
+    display: flex;
+    gap: 24px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size:30px;
+}
+.skill-des{
+    font-size: 20px;
+color: rgb(83, 80, 80);
+
+}
+
+.bottom-image{
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 290px;
+top: 2216.3px;
+}
+.gradient{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 290px;
+    top: 2216.3px;
+}
+.image-title{
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 354px;
+    top: 2275.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: whitesmoke;
+}
+.last-button{
+height: 44px;
+left: 356px;
+top: 2430.3px;
+color: rgb(225, 109, 27);
+position: absolute;
+width: 160px;
+right: 850px;
+font-weight: 700;
+font-size: 20px;
+border: 0;
+padding: 18px ;
+height: 64px;
+border-radius: 5px;
+background: #ffffff;
+}
+.section-title{
+font-size: 45px;
+color: #ffffff;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 305px;
+position: absolute;
+top: 55px;
+
+left: 300px;
+}
+.contact{
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2646.3px;
+
+background: #151414;
+}
+.footer-des{
+    position: absolute;
+    width: 485px;
+    height: 58px;
+    left: 305px;
+    top: 145.3px;
+    color: #FFFFFF;
+}
+.footer-des-mail{
+    position: absolute;
+    width: 485px;
+    height: 58px;
+    left: 305px;
+    top: 230.3px;
+    color: #FFFFFF;
+}
+.icon{
+    position: absolute;
+    width: 485px;
+    height: 58px;
+    left: 305px;
+    top: 330.3px;
+    
+}
+.subscribe-button{
+    position: absolute;
+    width: 485px;
+    height: 58px;
+    right: 105px;
+    top: 130.3px;
+    color: #FFFFFF;
+    
+   
+}
